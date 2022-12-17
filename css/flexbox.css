@@ -38,3 +38,24 @@
     width: 20%;
     margin-bottom: 2rem;
 }
+
+.videoSobre .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+}
+
+.videoSobre-sobre{
+    display: flex;
+    flex-direction: column;
+}
+
+.videoSobre-sobre-title{
+    text-align: center;
+}
+
+.videoSobre-sobre-list{
+    text-align: center;
+}
+
