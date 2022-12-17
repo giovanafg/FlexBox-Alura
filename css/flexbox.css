@@ -103,6 +103,14 @@
     .rodapePrincipal-contatoForm-fieldset{
         display: flex;
     }
+
+    .videoSobre .container{
+        flex-direction: column;
+    }
+
+    .videoSobre-video{
+        margin: 0 auto;
+    }
         
 }
 
